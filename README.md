@@ -174,6 +174,14 @@ Pixie is a community-driven project; we welcome your contribution! For code cont
 
 <br clear="all">
 
+## Latest Releases
+We version separate components of Pixie separately, so what Github shows as the "latest" release will only be the latest for one of the components.
+We maintain links to the latest releases for all components here:
+- <!--vizier-latest-release-->[Vizier v0.1.0](https://github.com/pixie-io/pixie/releases/tag/release/cli/v0.7.17)
+- <!--cli-latest-release-->[CLI v0.7.17](https://github.com/pixie-io/pixie/releases/tag/release%2Fcli%2Fv0.7.17)
+- <!--cloud-latest-release-->[Cloud v0.7.17](https://github.com/pixie-io/pixie/releases/tag/release%2Fcli%2Fv0.7.17)
+- <!--operator-latest-release-->[Operator v0.7.17](https://github.com/pixie-io/pixie/releases/tag/release%2Fcli%2Fv0.7.17)
+
 ## Changelog
 
 The changelog is stored in annotated git tags.
