@@ -62,7 +62,7 @@ jobs:
         git add README.md
         git commit -s -m "$(cat pr_title)"
         git push -f fork "${BRANCH}"
-        gh pr create --repo pixie-io/pixie \
+        gh pr create --repo JamesMBartlett/pixie \
           --head "pixie-io-buildbot:${BRANCH}" \
           --body "$(cat pr_body)" --title "$(cat pr_title)"
       # yamllint enable rule:indentation
